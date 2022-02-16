@@ -41,7 +41,7 @@
     let toBuyItems = [
         { name: "Chocolate cookies", quantity: 10 },
         { name: "Carrots", quantity: 2 },
-        { name: "Apples", quantity: 5 },
+        { name: "Apples", quantity: 4 },
         { name: "Tomatoes", quantity: 7 },
         { name: "Butter", quantity: 20 }        
     ];
